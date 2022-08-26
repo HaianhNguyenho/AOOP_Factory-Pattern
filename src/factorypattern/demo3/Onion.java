@@ -1,0 +1,7 @@
+package factorypattern.demo3;
+
+public class Onion implements Veggies {
+    public String toString(){
+        return "Onion";
+    }
+}
